@@ -1,7 +1,7 @@
 # 👥 **Binary Benefactors**
 
 <div align="center">
-  <img src="assets/images/logo.png" alt="Логотип" width="30%"" />
+  <img src="../assets/images/logo.png" alt="Логотип" width="30%"" />
   <br></br>
 </div>
 
